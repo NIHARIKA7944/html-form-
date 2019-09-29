@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>
+employee form 
+</title>
+</head>
+<body>
+<p>
+<b>
+employee name:          <input type = text name ="mname"size=20>
+</p>
+<p>
+<employee address:  <input type= text name= "addr" size=30></p>
+<p>
+city: <input type = text name ="city"<input type= text name="city size=15>
+</p>
+<p>
+pin code: <input type =text name ="pin code"size =6</p>
+<p>
+email : <input type = text name= "email"size =40>
+</p>
+employee salary : <input type = text name ="salary" <input type=text name ="salary"size=30></p>
+employee technical skills: <input type = text name=" skills" size=20>
+</p>
+education  <br>
+<select name=  "educ">
+<option value = "under" > under graduate
+<option value =  " doct">doctorate
+<option value =" pdoct"> post doctorate
+</select> <br> <p>
+<input type = submit value ="submit">
+<input type = reset value ="refresh">
+</p>
+</body>
+</html>
